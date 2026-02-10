@@ -1,0 +1,8 @@
+{
+  "junction_box": 9500,
+  "smart_meter_1p": 3500,
+  "smart_meter_3p": 6500,
+  "battery_base": 2000,
+  "wall_bracket": 1500,
+  "powerinsight_11": 12000
+}
