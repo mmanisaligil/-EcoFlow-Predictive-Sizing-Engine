@@ -65,3 +65,12 @@ npm run dev
 ```bash
 pytest -q
 ```
+
+## New usage notes (Scenario Selector + Expert Mode)
+- **Scenario selector** (S1/S2/S3) now drives the selected BOM and economics directly; KPIs and BOM cards always reflect the selected scenario.
+- **Scenario comparison** table shows capex/savings/payback for S1, S2, S3 side-by-side while keeping one selected scenario as primary.
+- **Expert Mode** is OFF by default. Turn it on to:
+  - pick working-hours level (`low`=0.6, `medium`=1.0, `high`=1.4)
+  - search and multi-select templates grouped by source (AC1P, AC3P, DC12V, DC24V, DC48V)
+  - send scaled expert-load contributions to the engine with auditable multiplier assumptions.
+- **Technical details** moved to a user-friendly modal with Summary/Sizing/BOM/Economics/Raw JSON tabs and copy/download actions.

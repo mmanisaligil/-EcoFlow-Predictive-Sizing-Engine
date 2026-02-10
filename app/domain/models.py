@@ -16,6 +16,9 @@ class AnalyzeRequest(BaseModel):
     peak_kw: float | None = Field(default=None, ge=0)
     powerocean_phase: Literal["1P", "3P"] | None = None
     powerocean_3p_class: Literal["3P", "3P_PLUS"] | None = None
+    selected_scenario_id: Literal["S1", "S2", "S3"] = "S3"
+    expert_mode: bool = False
+    expert_hours_mode: Literal["low", "medium", "high"] | None = None
     expert_loads: list[str] = Field(default_factory=list)
 
     @model_validator(mode="after")
@@ -28,6 +31,10 @@ class AnalyzeRequest(BaseModel):
             raise ValueError("powerocean_3p_class is required when powerocean_phase is 3P")
         if self.system_family == "powerocean" and self.powerocean_phase == "1P" and self.powerocean_3p_class is not None:
             raise ValueError("powerocean_3p_class must be null for 1P")
+        if not self.expert_mode and self.expert_loads:
+            self.expert_loads = []
+        if self.expert_mode and self.expert_hours_mode is None:
+            self.expert_hours_mode = "medium"
         return self
 
 
