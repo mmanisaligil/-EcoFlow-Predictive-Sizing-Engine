@@ -1,0 +1,60 @@
+:root {
+  --font-system: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Segoe UI", sans-serif;
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --space-1: 8px;
+  --space-2: 12px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 32px;
+  --bg: #f5f7fb;
+  --surface: rgba(255, 255, 255, 0.58);
+  --surface-strong: rgba(255, 255, 255, 0.78);
+  --text: #0f1728;
+  --muted: #5d6780;
+  --accent: #007aff;
+  --border: rgba(255, 255, 255, 0.45);
+  --shadow: 0 12px 48px rgba(16, 24, 40, 0.15);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d111a;
+    --surface: rgba(24, 30, 44, 0.58);
+    --surface-strong: rgba(24, 30, 44, 0.78);
+    --text: #ebedf4;
+    --muted: #98a1b5;
+    --accent: #4ba3ff;
+    --border: rgba(255, 255, 255, 0.13);
+    --shadow: 0 12px 48px rgba(0, 0, 0, 0.45);
+  }
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: var(--font-system);
+  background:
+    radial-gradient(circle at 20% 10%, rgba(88, 141, 255, 0.26), transparent 45%),
+    radial-gradient(circle at 80% 40%, rgba(65, 193, 255, 0.18), transparent 48%),
+    var(--bg);
+  color: var(--text);
+}
+
+.glass {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(18px) saturate(130%);
+  -webkit-backdrop-filter: blur(18px) saturate(130%);
+}
+
+.page {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 260px 1fr;
+}
+
+@media (max-width: 980px) {
+  .page { grid-template-columns: 1fr; }
+}
