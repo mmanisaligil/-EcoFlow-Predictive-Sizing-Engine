@@ -2,6 +2,8 @@
 
 Deterministic FastAPI + Next.js sizing platform for EcoFlow PowerOcean/STREAM recommendations.
 
+> DigitalOcean single-container deployments use `GET /` as an embedded web UI served by FastAPI, so the app URL opens a usable interface instead of raw JSON.
+
 ## Assumption
 To keep prototype speed high and deployment simple, the frontend is implemented with Next.js (web target) and calls the FastAPI engine over HTTP.
 
