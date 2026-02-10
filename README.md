@@ -11,6 +11,7 @@ To keep prototype speed high and deployment simple, the frontend is implemented 
 - `datasets/`: JSON-only data inputs used by the engine
 
 ## Backend API
+- `GET /` (default landing/status route for browser + platform checks)
 - `GET /health`
 - `GET /metadata`
 - `POST /analyze`
