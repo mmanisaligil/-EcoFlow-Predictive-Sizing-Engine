@@ -5,12 +5,12 @@ from app.data.cache import get_data_cache
 router = APIRouter(tags=["metadata"])
 
 CONSTANTS = {
-    "peak_multiplier_default": 1.8,
-    "round_trip_efficiency": 0.9,
+    "peak_multiplier_default": 4.0,
+    "round_trip_efficiency": 0.92,
     "usable_fraction": 0.9,
     "night_fraction": 0.5,
     "storage_utilization_factor": 0.85,
-    "annual_tariff_increase": 0.2,
+    "annual_tariff_increase": 0.25,
     "carbon_factor": 0.42,
 }
 

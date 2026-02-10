@@ -13,13 +13,16 @@ To keep prototype speed high and deployment simple, the frontend is implemented 
 - `datasets/`: JSON-only data inputs used by the engine
 
 ## Backend API
-- `GET /` (default landing/status route for browser + platform checks)
+- `GET /` (browser UI with city/expert-load dropdowns, calculation-first flow, and optional XLSX export)
 - `GET /health`
 - `GET /metadata`
 - `POST /analyze`
 - `POST /export/xlsx`
 
 ## Frontend screens
+- City dropdown populated from `/metadata`
+- Expert load template multi-select from all packs
+- Results/KPIs shown first; XLSX export unlocked after successful calculation
 - Landing / Dashboard
 - Manual Input Form + Expert Mode-ready layout
 - Analysis Overview + KPI cards
