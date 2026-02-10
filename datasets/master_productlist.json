@@ -1,0 +1,72 @@
+[
+  {
+    "Product":"5kWh Battery",
+    "Price (try VAT 20%)":160999,
+    "Power (kW)":null,
+    "Capacity (kWh)":5.0,
+    "Max. Solar (kW)":null
+  },
+  {
+    "Product":"1P 6kW Inverter",
+    "Price (try VAT 20%)":85999,
+    "Power (kW)":6.0,
+    "Capacity (kWh)":null,
+    "Max. Solar (kW)":12.0
+  },
+  {
+    "Product":"3P 12kW Inverter",
+    "Price (try VAT 20%)":146999,
+    "Power (kW)":12.0,
+    "Capacity (kWh)":null,
+    "Max. Solar (kW)":16.0
+  },
+  {
+    "Product":"3PP 29.9kW Inverter",
+    "Price (try VAT 20%)":224999,
+    "Power (kW)":29.9,
+    "Capacity (kWh)":null,
+    "Max. Solar (kW)":20.0
+  },
+  {
+    "Product":"STREAM AC",
+    "Price (try VAT 20%)":85999,
+    "Power (kW)":0.8,
+    "Capacity (kWh)":1.92,
+    "Max. Solar (kW)":null
+  },
+  {
+    "Product":"STREAM AC Pro",
+    "Price (try VAT 20%)":93999,
+    "Power (kW)":0.8,
+    "Capacity (kWh)":1.92,
+    "Max. Solar (kW)":null
+  },
+  {
+    "Product":"STREAM Max",
+    "Price (try VAT 20%)":100999,
+    "Power (kW)":0.8,
+    "Capacity (kWh)":1.92,
+    "Max. Solar (kW)":1.0
+  },
+  {
+    "Product":"STREAM Pro",
+    "Price (try VAT 20%)":110999,
+    "Power (kW)":0.8,
+    "Capacity (kWh)":1.92,
+    "Max. Solar (kW)":1.5
+  },
+  {
+    "Product":"STREAM Ultra",
+    "Price (try VAT 20%)":117999,
+    "Power (kW)":0.8,
+    "Capacity (kWh)":3.84,
+    "Max. Solar (kW)":2.0
+  },
+  {
+    "Product":"PowerStream ",
+    "Price (try VAT 20%)":17999,
+    "Power (kW)":0.8,
+    "Capacity (kWh)":null,
+    "Max. Solar (kW)":0.8
+  }
+]

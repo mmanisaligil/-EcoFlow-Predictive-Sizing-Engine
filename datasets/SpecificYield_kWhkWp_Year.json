@@ -1,0 +1,488 @@
+[
+  {
+    "Province":"Adana",
+    "Region":"Mediterranean",
+    "SpecificYield":1380,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Adýyaman",
+    "Region":"Southeastern Anatolia",
+    "SpecificYield":1580,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Afyonkarahisar",
+    "Region":"Aegean",
+    "SpecificYield":1450,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Aðrý",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1280,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Aksaray",
+    "Region":"Central Anatolia",
+    "SpecificYield":1550,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Amasya",
+    "Region":"Black Sea",
+    "SpecificYield":1240,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Ankara",
+    "Region":"Central Anatolia",
+    "SpecificYield":1450,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Antalya",
+    "Region":"Mediterranean",
+    "SpecificYield":1550,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Ardahan",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1220,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Artvin",
+    "Region":"Black Sea",
+    "SpecificYield":1140,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Aydýn",
+    "Region":"Aegean",
+    "SpecificYield":1580,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Balýkesir",
+    "Region":"Marmara",
+    "SpecificYield":1230,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Bartýn",
+    "Region":"Black Sea",
+    "SpecificYield":1140,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Batman",
+    "Region":"Southeastern Anatolia",
+    "SpecificYield":1600,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Bayburt",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1350,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Bilecik",
+    "Region":"Marmara",
+    "SpecificYield":1160,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Bingöl",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1360,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Bitlis",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1300,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Bolu",
+    "Region":"Black Sea",
+    "SpecificYield":1130,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Burdur",
+    "Region":"Mediterranean",
+    "SpecificYield":1330,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Bursa",
+    "Region":"Marmara",
+    "SpecificYield":1175,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Çanakkale",
+    "Region":"Marmara",
+    "SpecificYield":1240,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Çankýrý",
+    "Region":"Central Anatolia",
+    "SpecificYield":1400,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Çorum",
+    "Region":"Black Sea",
+    "SpecificYield":1150,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Denizli",
+    "Region":"Aegean",
+    "SpecificYield":1520,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Diyarbakýr",
+    "Region":"Southeastern Anatolia",
+    "SpecificYield":1600,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Düzce",
+    "Region":"Marmara",
+    "SpecificYield":1120,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Edirne",
+    "Region":"Marmara",
+    "SpecificYield":1180,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Elazýð",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1440,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Erzincan",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1420,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Erzurum",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1300,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Eskiþehir",
+    "Region":"Central Anatolia",
+    "SpecificYield":1450,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Gaziantep",
+    "Region":"Southeastern Anatolia",
+    "SpecificYield":1540,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Giresun",
+    "Region":"Black Sea",
+    "SpecificYield":1150,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Gümüþhane",
+    "Region":"Black Sea",
+    "SpecificYield":1230,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Hakkari",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1350,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Hatay",
+    "Region":"Mediterranean",
+    "SpecificYield":1480,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Iðdýr",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1500,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Isparta",
+    "Region":"Mediterranean",
+    "SpecificYield":1320,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Ýstanbul",
+    "Region":"Marmara",
+    "SpecificYield":1100,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Ýzmir",
+    "Region":"Aegean",
+    "SpecificYield":1530,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Kahramanmaraþ",
+    "Region":"Mediterranean",
+    "SpecificYield":1360,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Karabük",
+    "Region":"Black Sea",
+    "SpecificYield":1130,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Karaman",
+    "Region":"Central Anatolia",
+    "SpecificYield":1500,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Kars",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1260,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Kastamonu",
+    "Region":"Black Sea",
+    "SpecificYield":1160,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Kayseri",
+    "Region":"Central Anatolia",
+    "SpecificYield":1560,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Kilis",
+    "Region":"Southeastern Anatolia",
+    "SpecificYield":1560,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Kýrýkkale",
+    "Region":"Central Anatolia",
+    "SpecificYield":1440,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Kýrklareli",
+    "Region":"Marmara",
+    "SpecificYield":1150,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Kýrþehir",
+    "Region":"Central Anatolia",
+    "SpecificYield":1480,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Kocaeli",
+    "Region":"Marmara",
+    "SpecificYield":1120,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Konya",
+    "Region":"Central Anatolia",
+    "SpecificYield":1600,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Kütahya",
+    "Region":"Aegean",
+    "SpecificYield":1440,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Malatya",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1480,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Manisa",
+    "Region":"Aegean",
+    "SpecificYield":1500,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Mardin",
+    "Region":"Southeastern Anatolia",
+    "SpecificYield":1620,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Mersin",
+    "Region":"Mediterranean",
+    "SpecificYield":1400,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Muðla",
+    "Region":"Aegean",
+    "SpecificYield":1540,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Muþ",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1320,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Nevþehir",
+    "Region":"Central Anatolia",
+    "SpecificYield":1520,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Niðde",
+    "Region":"Central Anatolia",
+    "SpecificYield":1580,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Ordu",
+    "Region":"Black Sea",
+    "SpecificYield":1160,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Osmaniye",
+    "Region":"Mediterranean",
+    "SpecificYield":1420,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Rize",
+    "Region":"Black Sea",
+    "SpecificYield":1130,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Sakarya",
+    "Region":"Marmara",
+    "SpecificYield":1125,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Samsun",
+    "Region":"Black Sea",
+    "SpecificYield":1180,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Þanlýurfa",
+    "Region":"Southeastern Anatolia",
+    "SpecificYield":1680,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Siirt",
+    "Region":"Southeastern Anatolia",
+    "SpecificYield":1580,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Sinop",
+    "Region":"Black Sea",
+    "SpecificYield":1180,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Þýrnak",
+    "Region":"Southeastern Anatolia",
+    "SpecificYield":1560,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Sivas",
+    "Region":"Central Anatolia",
+    "SpecificYield":1400,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Tekirdað",
+    "Region":"Marmara",
+    "SpecificYield":1160,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Tokat",
+    "Region":"Black Sea",
+    "SpecificYield":1250,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Trabzon",
+    "Region":"Black Sea",
+    "SpecificYield":1140,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Tunceli",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1380,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Uþak",
+    "Region":"Aegean",
+    "SpecificYield":1470,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Van",
+    "Region":"Eastern Anatolia",
+    "SpecificYield":1400,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Yalova",
+    "Region":"Marmara",
+    "SpecificYield":1110,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Yozgat",
+    "Region":"Central Anatolia",
+    "SpecificYield":1420,
+    "Unit":"kWh_per_kWp_year"
+  },
+  {
+    "Province":"Zonguldak",
+    "Region":"Black Sea",
+    "SpecificYield":1120,
+    "Unit":"kWh_per_kWp_year"
+  }
+]
